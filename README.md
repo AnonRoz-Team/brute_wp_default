@@ -7,7 +7,7 @@ Team : AnonRoz-Team
 
 # Requirements
 ```
-module requests
+requests
 ```
 
 # Installation
