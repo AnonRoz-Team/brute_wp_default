@@ -7,7 +7,7 @@ Team : AnonRoz-Team
 
 # Requirements
 ```
-requests
+requests bs4
 ```
 
 # Installation
